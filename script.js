@@ -4,9 +4,9 @@ const estudiantes = [
     {id:3, nombre: 'Maria', edad : 21},
 ]
 
-const mostrarId = new promise ((buscarId) => {
+const mostrarId = new Promise ((buscarId) => {
     console.log ('Buscando en los registros...');
-    setTimeout (() => id ('Usuario encontrado'), 3000);
+    setTimeout (() => id === id ('Usuario encontrado'), 3000);
 })
 
 function buscarId (id, nombre) {
